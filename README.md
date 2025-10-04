@@ -17,13 +17,6 @@ This repo contains slides, datasets, Jupyter notebooks, and cheat sheets to help
 6. Real-world Applications
 7. Q&A
 
----
-
-## 📂 Contents
-- `notebooks/` → Jupyter notebooks for hands-on practice  
-- `datasets/` → Small datasets (CSV)  
-- `slides/` → Workshop slides (PPT/PDF)  
-- `cheatsheets/` → Quick reference sheets for Pandas & Scikit-learn  
 
 ---
 
